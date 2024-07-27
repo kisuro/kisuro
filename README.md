@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @kisuro or Kirill as you wish
-- 👀 I’m interested in java/python/automation
-- 🌱 I’m currently learning python
-- 📫 raznoobraznoe@gmail.com
+- 👋 Hi, I’m @kisuro
+- 👀 I’m interested in web3, defi, blockchain, llm, ai, java/python/automation
+- 🌱 I’m currently in python
 
